@@ -7,7 +7,7 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Portfolio',
+  name: 'CHENG Yuqi's Portfolio',
   domain: 'https://www.notion.so/porangec/Portfolio-4abfe5e11f12496eb3aa0c06591b4b4e',
   author: 'CHENG YUQI',
 
